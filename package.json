@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "name": "movilchatgrupal-main",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de **chat en tiempo real** desarrollada con **Flutter y Firebase**. Permite a los usuarios registrarse, autenticarse y enviar mensajes en un chat global utilizando **Socket.io** y **Firestore** como base de datos.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

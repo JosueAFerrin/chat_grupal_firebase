@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\src\\flutter_windows_3.24.4-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Jafer\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Jafer\\Downloads\\MovilChatGrupal-main\\MovilChatGrupal-main\\android\\app\\.cxx\\Debug\\2k3p4u1m\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Jafer\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Jafer\\Downloads\\MovilChatGrupal-main\\MovilChatGrupal-main\\android\\app\\.cxx\\Debug\\2k3p4u1m\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
